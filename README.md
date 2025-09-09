@@ -1,2 +1,2 @@
 # reachy
-Reachy from Pollen Robotics
+Reachy 2 from Pollen Robotics
